@@ -1,3 +1,0 @@
-# This project uses only Python standard libraries:
-# os, BeautifulSoup, csv, requests, datetime
-# No external dependencies required.
